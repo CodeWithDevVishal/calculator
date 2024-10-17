@@ -1,0 +1,9 @@
+body{
+    background-image: url("./image/japan\ Temple.jpg");
+    background-size: cover;
+    background-attachment:fixed ;
+}
+
+.bg1{
+    background-color: rgba(0, 0, 0, 0.356) !important;
+}
